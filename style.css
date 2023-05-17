@@ -265,7 +265,10 @@ h6 {
 	box-shadow: 0 0 .5rem .1rem rgb(255, 66, 214);
 }
 
-
+.address {
+	text-align: center;
+	margin: 0 auto;
+}
 
 @media (max-width: 1000px) {
 	#section_about {
